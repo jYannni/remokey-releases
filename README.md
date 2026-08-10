@@ -4,6 +4,16 @@ Control a Mac's keyboard, trackpad and media keys from an iPhone over your local
 Wi-Fi. This repo holds the **downloads and the update feed only** — the source
 lives elsewhere.
 
+> ## ⚠️ No release yet
+>
+> The first build is still going through Apple's notarization. **There is nothing
+> to download from this repo yet** — the `downloads` release exists but has no
+> assets attached, and `appcast.xml` is not published, so the in-app updater has
+> no feed to read.
+>
+> Everything below describes the app as built and tested, not as currently
+> downloadable. This banner comes down when the first DMG lands.
+
 ## Install
 
 Download the latest `ReMoKey-for-Mac-*.dmg` from the
