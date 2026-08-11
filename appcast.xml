@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>ReMoKey for Mac</title>
+        <item>
+            <title>1.0</title>
+            <pubDate>Tue, 11 Aug 2026 03:54:54 +0300</pubDate>
+            <sparkle:version>379</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/jYannni/remokey-releases/releases/download/downloads/ReMoKey-for-Mac-1.0.dmg" length="2181602" type="application/octet-stream" sparkle:edSignature="drvRmuMMtYGJu8CrwQQgSry3tyq6IK8DRGGlcJnLisY4Agz4bIVoRUgd4jYf/7tYaHthnqH70y0W+vFn8ZVSBg=="/>
+        </item>
+    </channel>
+</rss>
