@@ -3,8 +3,19 @@
     <channel>
         <title>ReMoKey for Mac</title>
         <item>
+            <title>1.1</title>
+            <pubDate>Wed, 12 Aug 2026 11:00:42 +0300</pubDate>
+            <sparkle:version>416</sparkle:version>
+            <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/jYannni/remokey-releases/releases/download/downloads/ReMoKey-for-Mac-1.1.dmg" length="1997804" type="application/octet-stream" sparkle:edSignature="HtMfFcR7grRUKVC6tAPQTI8huaPi9zDN25C7WXkDnU3Dlpyf1FynsJYlSaRddznGSzxlqdVs6IRj+ub5YJUVBA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/jYannni/remokey-releases/releases/download/downloads/ReMoKey%20for%20Mac416-379.delta" sparkle:deltaFrom="379" length="171026" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Zape8q0ypktqMdsSM+ujzet7paPSoWDD494jPyugvX9e6p7ZXEr8AY0FxuI3nHQr/fiR59J8QJthjmO49l7yAQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.0</title>
-            <pubDate>Tue, 11 Aug 2026 03:54:54 +0300</pubDate>
+            <pubDate>Wed, 12 Aug 2026 11:00:42 +0300</pubDate>
             <sparkle:version>379</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
